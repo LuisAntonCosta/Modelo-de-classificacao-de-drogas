@@ -23,6 +23,9 @@ Criacao de um modelo que classifica o tipo de droga utilizando caracteristicas d
   ![image](https://github.com/user-attachments/assets/a429a95b-91c3-426a-9cd2-181160641ce1)
   ![image](https://github.com/user-attachments/assets/af318493-2797-4bb7-9c74-77d113100643)
   ![image](https://github.com/user-attachments/assets/15d1e5af-cd1f-4669-b11f-c2e7c07bb6a1)
+  
   finalizando temos o grafico das features mais "importantes"
+
+  
   ![image](https://github.com/user-attachments/assets/bd05d0df-0795-4e18-ae72-fa0c9065bdb9)
   ![image](https://github.com/user-attachments/assets/a248f8c1-597b-4b52-bab6-382705e81144)
