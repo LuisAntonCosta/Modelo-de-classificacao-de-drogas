@@ -7,7 +7,10 @@ Criacao de um modelo que classifica o tipo de droga utilizando caracteristicas d
 # Pré-processamento e exploracao dos dados
   ![image](https://github.com/user-attachments/assets/eb00e4a8-7dc4-43a3-8613-139a789f0104)
   ![image](https://github.com/user-attachments/assets/163c2465-64ae-4426-b4e4-c401523d2fd3)
+  * Usando o replace ou o labelencoder podemos trocar as variaveis categoricas/"string" em numericos para o computador/modelo aprender e entender
   ![image](https://github.com/user-attachments/assets/134f2fd1-ef3d-4f92-b3e6-6302261a1abc)
+  ![image](https://github.com/user-attachments/assets/3fd8115f-c86e-48a3-a3d3-63a1216c029a)
+
 
 # Criacao do modelo
   Com os dados ja organizados,podemos criar nosso modelo 
