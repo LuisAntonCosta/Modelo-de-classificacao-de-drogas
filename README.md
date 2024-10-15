@@ -1,1 +1,1 @@
-# Modelo-de-previsao-de-drogas
+# Modelo-de-classificacao-de-drogas
